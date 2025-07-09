@@ -37,7 +37,7 @@ export default function TodoApp() {
 
   return (
     <div className="todo-container">
-      <h1>ToDo App Final</h1>
+      <h1>ToDo App</h1>
       <div className="input-section">
         <input
           type="text"
